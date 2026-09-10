@@ -55,7 +55,7 @@ book:
         - aulas/Aula_5_estruturaargumental.qmd
         - aulas/Aula_6_zotero.qmd
         - aulas/Aula_7_citacoes.qmd
-        #- aulas/Aula_7.qmd
+        - aulas/Aula_8_parafrase.qmd
 
     #- part: "Unidade II"
       #chapters:
