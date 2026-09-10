@@ -61,7 +61,7 @@ Competências e habilidades
 :::
 
 | Competência | Habilidades |
-|------------------------------------|------------------------------------|
+|----|----|
 | Avaliar criticamente argumentos, evidências e fontes de informação utilizados na produção do conhecimento científico. | \- Identificar a tese, as premissas e a conclusão em textos argumentativos.<br>- Analisar a consistência lógica de argumentos e a pertinência das evidências apresentadas. |
 | Utilizar a linguagem com clareza, precisão e adequação nos contextos acadêmicos. | \- Reconhecer diferentes registros linguísticos e níveis de formalidade.<br>- Utilizar a norma-padrão da língua portuguesa em situações de comunicação acadêmica. |
 | Ler, compreender e interpretar textos acadêmicos de diferentes gêneros. | \- Identificar a organização composicional e os propósitos comunicativos dos gêneros acadêmicos.<br>- Desenvolver estratégias de leitura crítica e analítica. |
@@ -82,7 +82,7 @@ Avaliação
 A avaliação da disciplina será processual e organizada em três etapas, correspondentes às unidades do curso. Cada instrumento avaliativo foi planejado para acompanhar o desenvolvimento progressivo das competências previstas para a respectiva unidade.
 
 | Unidade | Avaliação | Peso |
-|------------------------|-----------------------------|------------------:|
+|----|----|---:|
 | Unidade I | Prova escrita (questões objetivas e discursivas) | 30% |
 | Unidade II | Produção de uma mídia de divulgação científica | 30% |
 | Unidade III | Elaboração de um projeto de pesquisa | 30% |

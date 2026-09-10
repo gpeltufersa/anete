@@ -91,9 +91,9 @@ book:
 
     - part: "Complementos"
       chapters:
-        #- complementos/complemento_painel.qmd
+        - complementos/complemento_painel.qmd
         - complementos/complemento_crono.qmd
-        - complementos/complemento_projeto_pesquisa.qmd
+        #- complementos/complemento_projeto_pesquisa.qmd
         #- complementos/complemento_agendamento.qmd
 
 format:
