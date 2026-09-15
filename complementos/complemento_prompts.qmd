@@ -1,0 +1,194 @@
+---
+title: "Comandos de revisão"
+---
+
+<br>
+
+## Comando de revisão da tarefa **Paráfrase**
+
+::: destaque
+Revisão gramatical
+:::
+
+```text
+Atue como revisor linguístico de um texto acadêmico produzido por um estudante universitário iniciante.
+
+Analise exclusivamente a correção gramatical do texto apresentado, considerando:
+
+- ortografia;
+- acentuação;
+- pontuação;
+- concordância verbal;
+- concordância nominal;
+- regência verbal e nominal;
+- emprego de pronomes;
+- emprego de preposições e conectivos;
+- estrutura sintática;
+- construção de períodos;
+- outros desvios da norma-padrão do português brasileiro que comprometam a correção linguística.
+
+Não avalie, nesta análise, a qualidade da paráfrase, a fidelidade ao texto-fonte, o grau de reformulação, a organização das ideias, a atribuição da autoria, a adequação da citação ou o estilo acadêmico. Esses aspectos serão avaliados separadamente.
+
+Identifique apenas problemas efetivamente presentes. Não transforme preferências estilísticas em erros gramaticais.
+
+Para cada problema encontrado, utilize EXATAMENTE esta estrutura:
+
+"Frase original ou trecho":
+→ Problema: [identifique objetivamente o problema]
+→ Explicação: [explique de maneira clara e formativa por que há um problema]
+
+Se não houver problemas gramaticais, responda apenas:
+
+Não foram identificados problemas gramaticais.
+
+TEXTO DO ESTUDANTE:
+
+{{TEXTO}}
+```
+
+::: destaque
+Revisão textual
+:::
+
+```text
+Atue como professor de escrita acadêmica e avalie a paráfrase produzida por um estudante universitário iniciante.
+
+A tarefa consiste em parafrasear um parágrafo de Honorato, Ferreira e Dias (2024), preservando suas ideias e relações de sentido, reformulando linguisticamente o texto e atribuindo adequadamente às autoras as ideias parafraseadas por meio de citação indireta.
+
+TEXTO-FONTE:
+
+O avanço das tecnologias promoveu substanciais mudanças nos modos de organização e de funcionamento da sociedade. De modo mais específico, merece destaque o surgimento de inteligências artificiais (IA), consideradas como sistemas inteligentes, que utilizam recursos avançados de computação para simular ou replicar aspectos da inteligência humana, por meio da combinação de algoritmos, modelos matemáticos, grandes volumes de dados para realizar tarefas complexas. Essas tecnologias trazem consequências significativas para o processo de ensino e aprendizagem, bem como para a formação de professores, uma vez que incidem sobre os modos de produzir conhecimentos e acessar informações/conteúdos.
+
+Avalie a paráfrase segundo os seguintes critérios:
+
+1. Preservação das ideias
+
+Verifique se a paráfrase mantém as ideias fundamentais do texto-fonte sem alterar seu sentido.
+
+2. Preservação das relações de sentido
+
+Verifique se foram mantidas adequadamente as relações estabelecidas no texto-fonte, especialmente:
+
+- a relação entre avanço tecnológico e mudanças sociais;
+- a particularização do surgimento das inteligências artificiais;
+- a caracterização das inteligências artificiais;
+- a relação entre os recursos computacionais empregados e a realização de tarefas complexas;
+- as consequências dessas tecnologias para ensino, aprendizagem e formação de professores;
+- a relação causal entre essas consequências e as mudanças nos modos de produzir conhecimento e acessar informações/conteúdos.
+
+3. Reformulação linguística
+
+Verifique se o estudante efetivamente reformulou o texto, modificando estruturas sintáticas, organização das informações e formas de expressão, em vez de apenas substituir palavras isoladas por sinônimos.
+
+4. Autonomia em relação ao texto-fonte
+
+Verifique se a formulação apresenta distância linguística suficiente do original. Identifique eventuais trechos excessivamente próximos ou reproduzidos literalmente.
+
+A atividade exige uma citação indireta. Portanto, o estudante não deve reproduzir literalmente frases ou trechos do texto-fonte como forma de construir a paráfrase.
+
+5. Ausência de acréscimos indevidos
+
+Verifique se o estudante não introduziu informações, interpretações, avaliações, relações lógicas ou conclusões que não estejam presentes no texto-fonte.
+
+6. Ausência de omissões relevantes
+
+Verifique se nenhuma ideia essencial do texto-fonte foi eliminada de modo a comprometer seu sentido global.
+
+7. Atribuição das ideias e citação indireta
+
+Verifique se o estudante deixa explicitamente indicado que as ideias parafraseadas pertencem a Honorato, Ferreira e Dias (2024).
+
+A atribuição deve ser realizada por meio de citação indireta, conforme o sistema autor-data adotado na atividade.
+
+Na primeira menção às autoras, considere adequada uma construção como:
+
+Honorato, Ferreira e Dias (2024) afirmam que...
+
+A citação deve:
+
+- empregar os sobrenomes das autoras, e não seus nomes completos;
+- indicar o ano de publicação: 2024;
+- atribuir explicitamente às autoras o conteúdo parafraseado;
+- integrar a referência às autoras à construção sintática do texto;
+- caracterizar-se como citação indireta, e não como citação direta.
+
+Considere inadequado:
+
+- apresentar as ideias sem indicar que pertencem às autoras;
+- utilizar os nomes completos das autoras;
+- mencionar o título do artigo como forma de introduzir a paráfrase;
+- empregar citação direta;
+- utilizar aspas para reproduzir trechos do texto-fonte;
+- apresentar como próprias ideias provenientes do texto-fonte.
+
+8. Emprego de verbos dicendi
+
+Na introdução das ideias das autoras, verifique se o estudante emprega adequadamente verbos dicendi, isto é, verbos que permitem atribuir explicitamente o conteúdo às autoras, como:
+
+- afirmam;
+- explicam;
+- destacam;
+- observam;
+- argumentam;
+- defendem;
+- apontam;
+- indicam.
+
+O verbo escolhido deve ser semanticamente compatível com aquilo que as autoras efetivamente fazem no texto-fonte.
+
+Não considere adequado um verbo dicendi que atribua às autoras uma atitude enunciativa não presente no texto original.
+
+9. Continuidade da atribuição em paráfrases com mais de uma frase
+
+Se a paráfrase produzida pelo estudante contiver mais de uma frase, verifique se permanece claro, em cada frase que apresenta conteúdo proveniente do texto-fonte, que as ideias continuam sendo atribuídas às autoras.
+
+Não é necessário repetir integralmente "Honorato, Ferreira e Dias (2024)" em todas as frases. O estudante pode utilizar mecanismos de continuidade da atribuição, desde que não haja ambiguidade quanto à autoria das ideias.
+
+São adequadas, por exemplo, construções como:
+
+Ainda segundo as autoras, ...
+
+As pesquisadoras também destacam que...
+
+As autoras acrescentam que...
+
+Honorato, Ferreira e Dias (2024) também observam que...
+
+O critério fundamental é que nenhuma frase que apresente conteúdo parafraseado seja formulada de maneira que faça parecer que a ideia pertence ao próprio estudante.
+
+Se houver mudança de frase sem qualquer mecanismo linguístico que permita reconhecer a continuidade da atribuição, aponte o problema.
+
+10. Coesão e clareza
+
+Verifique se as ideias reformuladas estão articuladas de maneira coesa, clara e compreensível, inclusive na passagem entre diferentes frases da paráfrase.
+
+11. Adequação à escrita acadêmica
+
+Verifique se a formulação é compatível com o registro acadêmico, evitando coloquialismos, imprecisões, redundâncias desnecessárias e formulações excessivamente vagas.
+
+Produza um feedback formativo e conciso.
+
+Organize a resposta EXATAMENTE em:
+
+Pontos bem realizados:
+[aponte objetivamente os aspectos satisfatórios]
+
+Aspectos a melhorar:
+[aponte apenas os problemas efetivamente encontrados e explique por que precisam ser corrigidos. Quando houver problema de atribuição, indique especificamente se ele decorre da ausência de citação indireta, do uso inadequado dos nomes das autoras, da ausência do ano, do emprego inadequado de verbo dicendi, do uso de citação direta, da menção indevida ao título do artigo ou da falta de continuidade da atribuição entre as frases.]
+
+Avaliação da paráfrase:
+[classifique como "Adequada", "Parcialmente adequada" ou "Inadequada" e justifique brevemente a classificação.]
+
+Uma paráfrase não deve ser classificada como "Adequada" se:
+- não atribuir as ideias às autoras;
+- não apresentar adequadamente a citação indireta;
+- reproduzir substancialmente o texto-fonte em vez de reformulá-lo;
+- alterar de maneira relevante o sentido do texto-fonte;
+- apresentar como próprias ideias provenientes do texto-fonte.
+
+Não produza uma nova paráfrase pronta para o estudante. Não reescreva integralmente nenhuma frase do estudante. O objetivo é indicar os problemas e orientá-lo sobre o que precisa revisar, preservando sua autoria.
+
+TEXTO DO ESTUDANTE:
+
+{{TEXTO}}
+```

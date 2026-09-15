@@ -46,7 +46,7 @@ A paráfrase:
 Análise
 :::
 
-1. Compare o texto original de Antonio Carlos Gil, abaixo, com o texto parafraseado, a seguir, e identifique as estratégias utilizadas e, se houver, problemas que possam comprometer a fidelidade às ideias do texto original.
+1.  Compare o texto original de Antonio Carlos Gil, abaixo, com o texto parafraseado, a seguir, e identifique as estratégias utilizadas e, se houver, problemas que possam comprometer a fidelidade às ideias do texto original.
 
 **Texto original de Antonio Carlos Gil, do livro *Como elaborar projetos de pesquisa*, publicado em 2002**<br>
 
@@ -92,7 +92,7 @@ Também é necessário distinguir as ideias da fonte das contribuições do auto
 
 <br/><br/>
 
-2. Compare o texto original de Eva Maria Lakatos e Marina de Andrade Marconi, abaixo, com o texto parafraseado, a seguir, e identifique as estratégias utilizadas e, se houver, problemas que possam comprometer a fidelidade às ideias do texto original.
+2.  Compare o texto original de Eva Maria Lakatos e Marina de Andrade Marconi, abaixo, com o texto parafraseado, a seguir, e identifique as estratégias utilizadas e, se houver, problemas que possam comprometer a fidelidade às ideias do texto original.
 
 **Texto original de Eva Maria Lakatos e Marina de Andrade Marconi, do livro *Metodologia do trabalho científico*, publicado em 1992**<br>
 
@@ -121,8 +121,6 @@ Estratégias de parafraseamento
 :::
 
 <br/>
-
-
 
 <br/><br/>
 
@@ -159,8 +157,11 @@ O avanço das tecnologias promoveu substanciais mudanças nos modos de organiza�
 <br/>
 
 <!-- Aqui começa o campo de respostas-->
+
 <details class="resposta-escondida">
+
 <summary>...</summary>
+
 **Sugestão de paráfrase**
 
 Honorato, Ferreira e Dias (2024) afirmam que as inovações tecnológicas vêm provocando transformações profundas na forma como a sociedade se estrutura e opera. Nesse cenário, ganham relevo os sistemas de inteligência artificial, definidos como tecnologias capazes de simular aspectos da cognição humana por meio de algoritmos, modelos matemáticos e grandes bases de dados. As autoras ressaltam que tais recursos impactam diretamente os processos educativos, sobretudo no que se refere à formação docente, pois alteram as dinâmicas de construção do conhecimento e de acesso à informação.
@@ -174,8 +175,24 @@ Honorato, Ferreira e Dias (2024) afirmam que as inovações tecnológicas vêm p
 | **Preservação do sentido** | Manutenção das ideias centrais do texto original, respeitando sua intenção e significado. | A definição de IA e seu impacto na formação docente foram mantidos. |
 
 </details>
+
 <!-- Aqui encerra o campo de respostas-->
 
+## Aprendizagem prática
+
+::: subsubtitulo-nao-numerado
+Paráfrase
+:::
+
+No seu caderno, parafraseie o parágrafo abaixo. Empregue as estratégias apresentadas e verifique se a nova formulação preserva as ideias e as relações de sentido do texto-fonte. O texto-fonte é o primeiro parágrafo da introdução do artigo científico “Políticas públicas e futuros da divulgação científica nas universidades federais brasileiras”, escrito por Luciane Treulieb e Thaiane Moreira de Oliveira, publicado em 2026.
+
+::: enfase
+Este artigo analisa a divulgação científica realizada por universidades públicas federais como problema de política de comunicação em ambiente comunicacional plataformizado. A pesquisa adota abordagem qualitativa e utiliza ferramentas dos Estudos de Futuros, especialmente o Environmental Scanning, combinando análise documental com entrevistas semiestruturadas realizadas com cinco comunicadores de universidades. Os resultados mostram um descompasso entre a crescente formalização da divulgação científica nas políticas públicas e sua limitada integração à estrutura financeira e organizacional do sistema de ensino e pesquisa nacional. O exercício prospectivo indica que seu fortalecimento depende de financiamento protegido, formalização institucional e incorporação da divulgação científica ao desenho dos projetos de pesquisa.
+:::
+
+
+
+```{=html}
 <!--
 <br>
 
@@ -185,3 +202,4 @@ Honorato, Ferreira e Dias (2024) afirmam que as inovações tecnológicas vêm p
 - **Leia** o texto **O que é um bom argumento?** (p. 27–42), capítulo do livro *Pensamento crítico: o poder da lógica e da argumentação*, de Walter Carnielli e Richard Epstein. Disponível na Biblioteca Virtual.
 :::
 -->
+```
