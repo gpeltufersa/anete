@@ -64,7 +64,7 @@ Estratégias de parafraseamento
 
 ::: {#tbl-parafrase-gil .striped .hover .table-responsive}
 | Estratégia utilizada | Como foi utilizada | Exemplo |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **Substituição lexical** | Algumas palavras e expressões do original são substituídas por outras de sentido próximo. | *“descrição das características”* → *“apresentar as características”* |
 | **Reestruturação sintática** | A informação é mantida, mas passa a ser expressa por meio de outra construção gramatical. | *“têm como objetivo primordial a descrição”* → *“com o objetivo de apresentar”* |
 | **Seleção e supressão de informações** | Parte das informações do texto-fonte é selecionada, enquanto outras deixam de aparecer na paráfrase. | São mantidas as características de determinada população, mas são omitidos *“fenômeno”*, *“relações entre variáveis”*, *“questionário”* e *“observação sistemática”*. |
@@ -110,7 +110,7 @@ Estratégias de parafraseamento
 
 ::: {#tbl-parafrase .striped .hover .table-responsive}
 | Estratégia utilizada | Como foi utilizada | Exemplo |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **Substituição lexical** | Algumas palavras e expressões são substituídas por outras de sentido próximo. | *“saber”* → *“saberes”*; *“é obtida”* → *“possibilita a obtenção”*. |
 | **Reestruturação sintática** | O mesmo conteúdo passa a ser expresso por meio de construções gramaticais diferentes. | *“É por meio da leitura que a maior parte dos conhecimentos é obtida”* → *“a leitura possibilita a obtenção de conhecimento”*. |
 | **Seleção e supressão de informações** | Algumas informações do original são selecionadas para compor a paráfrase, enquanto outras são omitidas. | A afirmação de que a leitura é *“imprescindível em todos os tipos de investigação científica”* não é retomada explicitamente. |
@@ -167,7 +167,7 @@ O avanço das tecnologias promoveu substanciais mudanças nos modos de organiza�
 Honorato, Ferreira e Dias (2024) afirmam que as inovações tecnológicas vêm provocando transformações profundas na forma como a sociedade se estrutura e opera. Nesse cenário, ganham relevo os sistemas de inteligência artificial, definidos como tecnologias capazes de simular aspectos da cognição humana por meio de algoritmos, modelos matemáticos e grandes bases de dados. As autoras ressaltam que tais recursos impactam diretamente os processos educativos, sobretudo no que se refere à formação docente, pois alteram as dinâmicas de construção do conhecimento e de acesso à informação.
 
 | Estratégia utilizada | Explicação | Exemplos ou observações |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **Uso de verbos *dicendi*** | Introdução da voz das autoras com verbos que indicam posicionamento, análise ou afirmação. | *“afirmam”, “ressaltam”* |
 | **Reorganização da estrutura** | Mudança na ordem das ideias originais para favorecer clareza e evitar cópia literal. | Primeiro vem o impacto social, depois os aspectos técnicos e educacionais. |
 | **Reformulação lexical** | Substituição de palavras e expressões por sinônimos ou construções mais acessíveis. | “Modos de organização” → “forma como a sociedade se estrutura”; “grandes volumes” → “grandes bases” |

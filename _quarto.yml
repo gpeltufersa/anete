@@ -114,9 +114,16 @@ format:
 
 editor: visual
 
+# ANTES DE COMEÇAR A TRABALHAR
+# git pull
 
-# git add .
+# Edite normalmente os arquivos no RStudio e renderize o projeto.
 
-# git commit -m "Atualização de aula"
+# QUANDO TERMINAR
 
-# git push origin main
+# quarto render
+# quarto preview
+# git status
+# git add -A
+# git commit -m "Atualiza conteúdo da ANETE"
+# git push
